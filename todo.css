@@ -1,0 +1,45 @@
+.css-input-task{border-radius: 15px;width: 500px;height: 20px;border: 0px;
+padding: 10px;
+margin-bottom: 1%;
+text-align: center;
+}
+
+
+
+.css-submit-task{
+    border-radius: 15px;
+    height: 40px;
+    width: 80px;
+    border-color: rgb(150, 70, 139);
+   
+}
+.css-submit-task:hover{
+cursor: pointer;
+}
+
+
+.css-add-task{
+    color: azure;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    border: 0px;
+    margin: 0px;
+    font-weight: bolder; 
+
+}
+body{justify-content: center;
+text-align: center;}
+
+
+.js-remove{
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+   border: 20px;
+   border-color: blue;
+}
+.js-remove{
+    cursor: pointer;
+}
+
+
